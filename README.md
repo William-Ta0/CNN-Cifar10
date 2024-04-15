@@ -1,0 +1,9 @@
+https://www.kaggle.com/code/bhuvanchennoju/cifar-10-image-classification-with-cnn
+https://www.kaggle.com/code/faressayah/cifar-10-images-classification-using-cnns-88
+https://www.kaggle.com/code/vivek468/very-basic-cifar-10-data-cnn
+https://www.kaggle.com/code/farzadnekouei/cifar-10-image-classification-with-cnn
+https://www.kaggle.com/code/firuzjuraev/usage-of-trained-models
+https://www.kaggle.com/discussions/general/306900
+https://www.kaggle.com/code/datajameson/cifar-10-object-recognition-cnn-explained
+https://www.kaggle.com/code/devsubhash/cifar-10-image-classification-using-cnn
+https://www.kaggle.com/code/ayushnitb/cifar10-custom-resnet-cnn-pytorch-97-acc
